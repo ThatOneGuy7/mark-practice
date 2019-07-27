@@ -1,0 +1,2 @@
+Look, I'm adding a file. And adding some text into it.
+Isnt git weird?
